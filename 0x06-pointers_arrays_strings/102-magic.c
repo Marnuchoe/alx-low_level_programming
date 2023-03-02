@@ -7,6 +7,7 @@ int a[5];
 int *p;
 
 a[2] = 1024;
+a[2] = 98;
 p = &n;
   /*
    * write your line of code here...
@@ -16,3 +17,4 @@ p = &n;
    *  only one statement
    * you are not allowed to code anything else than this line of code
    */
+}
