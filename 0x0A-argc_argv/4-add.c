@@ -8,9 +8,11 @@
 	 *
 	 * Return: Always 0 (Success)
 	 */
+
 	int check_num(char *str)
 
 	{
+
 		/*Declaring variables*/
 		unsigned int count;
 
@@ -31,6 +33,7 @@
 		return (1);
 	}
 
+
 	/**
 	 * main - Print the name of the program
 	 * @argc: Count arguments
@@ -38,10 +41,10 @@
 	 *
 	 * Return: Always 0 (Success)
 	 */
+
 	int main(int argc, char *argv[])
 
 	{
-
 
 		/*Declaring variables*/
 		int count;
